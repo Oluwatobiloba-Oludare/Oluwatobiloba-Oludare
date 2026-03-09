@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I am a passionate and voracious learner.<br><br>- 📚 I'm currently learning AWS and Git<br>- I am currently a Devop Trainee and I am open for an Internship</p>
+<p align="left">I am a passionate and voracious learner.<br><br>- 📚 I'm currently building projects and learning CI/CD <br>- I am open for an Internship</p>
 
 ###
 
