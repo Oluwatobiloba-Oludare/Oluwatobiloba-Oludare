@@ -20,7 +20,8 @@
 
 ###
 
-<p align="left">I am a passionate and voracious learner.<br><br>- 📚 I'm currently building projects and depening my understaind on Gitlab CI/CD & Kubernetes <br>- I am open for an Internship</p>
+<p align="left">I am a passionate and voracious learner. I have hands-on experience in cloud platforms (AWS), containerization (Docker), infrastructure automation (Terraform), and Gitlab CI/CD pipelines. 
+  Through personal projects and training, I have built and deployed scalable web applications, configured automated deployment workflows, and managed infrastructure efficiently. I am eager to contribute these skills to your DevOps team. <br><br>- 📚 I'm currently building projects and depening my understanding on Gitlab CI/CD & Kubernetes <br>- I am open for an Internship or entry level role </p>
 
 ###
 
